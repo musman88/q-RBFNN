@@ -4,16 +4,16 @@ close all
 
 lw = 2;
 
-load('Iq2.mat');
+load('/Data/Iq2.mat');
 Iq2=Iq;
 
-load('Iq3.mat');
+load('/Data/Iq3.mat');
 Iq5=Iq;
 
-load('Iq4.mat');
+load('/Data/Iq4.mat');
 Iq10=Iq;
 
-load('Iq5.mat');
+load('/Data/Iq5.mat');
 Iq12=Iq;
 
 
